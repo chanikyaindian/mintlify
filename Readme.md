@@ -1,2 +1,2 @@
-Live Link: https://mintlify-tau-gray.vercel.app/
-I made the Light version of website
+- Live Link: https://mintlify-tau-gray.vercel.app/
+- I made the Light version of website
