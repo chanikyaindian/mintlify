@@ -1,1 +1,1 @@
-Live Link: https://mintlify-landing.netlify.app
+Live Link: https://mintlify-tau-gray.vercel.app/
