@@ -34,7 +34,7 @@ header {
   background-repeat: no-repeat;
   background-position: center -85px;
 }
-/*-----------Navbar Stars----- */
+
 header nav {
   display: flex;
   justify-content: center;
@@ -127,9 +127,7 @@ header nav {
   background-color: #c7c7c7;
 }
 
-/* -------Navbar ends--------- */
 
-/* ------------Hero section starts--------- */
 .hero {
   display: flex;
   flex-direction: column;
@@ -138,7 +136,7 @@ header nav {
   margin-top: 2.5rem;
 }
 
-/*-----badge starts-----*/
+
 .badge {
   border-radius: 50px;
   padding: 0.25rem;
@@ -166,9 +164,7 @@ header nav {
   width: 1rem;
 }
 
-/*-----badge ends-----*/
 
-/*------------- Main Heading starts-------------*/
 .hero h1 {
   width: 100%;
   max-width: 43rem;
@@ -179,9 +175,6 @@ header nav {
   line-height: 1.15;
   margin-top: 50px;
 }
-/*------------- Main Heading ends-------------*/
-
-/*------------- Sub Heading starts-------------*/
 
 .subheading {
   color: var(--bg-color);
@@ -194,9 +187,7 @@ header nav {
   width: 100%;
   text-align: center;
 }
-/*------------- Main Heading ends-------------*/
 
-/*------------- Email input + CTA button Starts-------------*/
 .hero form {
   margin-top: 2rem;
   padding: 0.25rem;
@@ -239,9 +230,6 @@ form input::placeholder {
   background-color: var(--bg-color);
 }
 
-/*------------- Email input + CTA button ends-------------*/
-
-/*---------Large background illustration--------------*/
 
 .hero-background-illustration {
   overflow: hidden;
@@ -253,9 +241,7 @@ form input::placeholder {
 .hero-background-illustration img {
   border-radius: 10px;
 }
-/* ----------Hero section ends----------- */
 
-/*--------- Trusted By / Logos starts---- */
 
 .compay-wrapper {
   width: 100%;
@@ -278,9 +264,6 @@ form input::placeholder {
   color: var(--color-black);
 }
 
-/*--------- Trusted By / Logos starts---- */
-
-/*-----------Feature section starts----------------*/
 
 .feature {
   display: flex;
@@ -336,7 +319,6 @@ h2 {
   color: #0c8c5e;
   text-transform: uppercase;
 }
-/* -------Intelligent Assistant / UI Preview starts------- */
 
 .assistant-card {
   border: 1px solid rgb(232, 232, 232);
@@ -362,9 +344,6 @@ h2 {
 .assistant-card img {
   margin-top: 100px;
 }
-/* -------Intelligent Assistant / UI Preview ends------- */
-/*-----------Feature section ends----------------*/
-/* ---------------Enterprise Features Section starts------------- */
 
 .enterprise-feature {
   min-width: 500px;
@@ -499,10 +478,6 @@ h2 {
     filter:none;
     cursor: pointer;
 }
-
-/*---------------Enterprise Features Section Ends------------- */
-
-/*-----------Case Studies / Customer Stories Starts--------------*/
 
 .case-study {
   margin-bottom: 200px;
